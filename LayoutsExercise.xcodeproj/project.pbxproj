@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0A38CBA1272B714000AEE97C /* ViewThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0A38CBA0272B714000AEE97C /* ViewThree.swift */; };
 		0AA49253272B154700761173 /* LayoutsExerciseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0AA49252272B154700761173 /* LayoutsExerciseApp.swift */; };
 		0AA49257272B155000761173 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AA49256272B155000761173 /* Assets.xcassets */; };
 		0AA4925A272B155000761173 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0AA49259272B155000761173 /* Preview Assets.xcassets */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0A38CBA0272B714000AEE97C /* ViewThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewThree.swift; sourceTree = "<group>"; };
 		0AA4924F272B154700761173 /* LayoutsExercise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LayoutsExercise.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0AA49252272B154700761173 /* LayoutsExerciseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LayoutsExerciseApp.swift; sourceTree = "<group>"; };
 		0AA49256272B155000761173 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -74,6 +76,7 @@
 			children = (
 				0AA49261272B15B900761173 /* ExerciseOne.swift */,
 				0AC467EB272B16A7002B32AE /* Exercise2.swift */,
+				0A38CBA0272B714000AEE97C /* ViewThree.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -149,6 +152,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AA49262272B15B900761173 /* ExerciseOne.swift in Sources */,
+				0A38CBA1272B714000AEE97C /* ViewThree.swift in Sources */,
 				0AA49253272B154700761173 /* LayoutsExerciseApp.swift in Sources */,
 				0AC467EC272B16A7002B32AE /* Exercise2.swift in Sources */,
 			);
